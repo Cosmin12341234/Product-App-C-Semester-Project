@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1683552088 source:c:\users\neanu\onedrive\desktop\lab9-10\main.cpp
+	<iostream>
+	"tesEntitate.h"
+	"testeRepo.h"
+	"testeService.h"
+	"UI.h"
+
+1683020033 source:c:\users\neanu\onedrive\desktop\lab9-10\entitate.cpp
+	"Entitate.h"
+	<cstring>
+
+1683020033 c:\users\neanu\onedrive\desktop\lab9-10\entitate.h
+
+1683007965 c:\users\neanu\onedrive\desktop\lab9-10\tesentitate.h
+
+1683008115 source:c:\users\neanu\onedrive\desktop\lab9-10\tesentitate.cpp
+	<iostream>
+	<cstring>
+	<cassert>
+	"Entitate.h"
+
+1683009714 source:c:\users\neanu\onedrive\desktop\lab9-10\entitaterepository.cpp
+
+1683614019 source:c:\users\neanu\onedrive\desktop\lab9-10\entitaterepo.cpp
+	<vector>
+	"EntitateRepo.h"
+	<cstring>
+
+1683613336 c:\users\neanu\onedrive\desktop\lab9-10\entitaterepo.h
+	<vector>
+	"Entitate.h"
+
+1683020406 c:\users\neanu\onedrive\desktop\lab9-10\testerepo.h
+
+1683020425 source:c:\users\neanu\onedrive\desktop\lab9-10\testerepo.cpp
+	"EntitateRepo.h"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683613439 source:c:\users\neanu\onedrive\desktop\lab9-10\entitateservice.cpp
+	<iostream>
+	<vector>
+	"EntitateService.h"
+
+1683613439 c:\users\neanu\onedrive\desktop\lab9-10\entitateservice.h
+	"EntitateRepo.h"
+	<vector>
+	<iostream>
+
+1683551379 c:\users\neanu\onedrive\desktop\lab9-10\ui.h
+	"EntitateService.h"
+
+1683613534 source:c:\users\neanu\onedrive\desktop\lab9-10\ui.cpp
+	"UI.h"
+	<vector>
+	<iostream>
+
+1683552088 c:\users\neanu\onedrive\desktop\lab9-10\testeservice.h
+
+1683552088 source:c:\users\neanu\onedrive\desktop\lab9-10\testeservice.cpp
+	"EntitateService.h"
+	<vector>
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683020033 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitate.cpp
+	"Entitate.h"
+	<cstring>
+
+1683020033 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitate.h
+
+1684169182 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitaterepo.cpp
+	<vector>
+	"EntitateRepo.h"
+	<cstring>
+
+1684216139 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitaterepo.h
+	<vector>
+	"Entitate.h"
+
+1683613439 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitateservice.cpp
+	<iostream>
+	<vector>
+	"EntitateService.h"
+
+1684219366 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\entitateservice.h
+	"EntitateRepo.h"
+	<vector>
+	<iostream>
+
+1684217363 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\main.cpp
+	<iostream>
+	"tesEntitate.h"
+	"testeRepo.h"
+	"testeService.h"
+	"UI.h"
+
+1683007965 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\tesentitate.h
+
+1683020406 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\testerepo.h
+
+1683552088 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\testeservice.h
+
+1684159157 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\ui.h
+	"EntitateService.h"
+	"Colectie.h"
+
+1683008115 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\tesentitate.cpp
+	<iostream>
+	<cstring>
+	<cassert>
+	"Entitate.h"
+
+1683020425 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\testerepo.cpp
+	"EntitateRepo.h"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683552088 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\testeservice.cpp
+	"EntitateService.h"
+	<vector>
+	<iostream>
+	<cassert>
+	<cstring>
+
+1684168134 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\ui.cpp
+	"UI.h"
+	<vector>
+	<iostream>
+	<cstring>
+
+1684160263 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\colectie.h
+
+1684160275 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\colectie.cpp
+	<iostream>
+	"Colectie.h"
+
+1684219083 source:c:\users\neanu\onedrive\desktop\proiecte\lab9-10\filerepo.cpp
+	"FileRepo.h"
+	<utility>
+	<iostream>
+
+1684218639 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\filerepo.h
+	"EntitateRepo.h"
+	<fstream>
+
+1684216861 c:\users\neanu\onedrive\desktop\proiecte\lab9-10\filerepo.cpp
+	"EntitateRepo.h"
+	<fstream>
+	<vector>
+
